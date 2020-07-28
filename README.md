@@ -6,7 +6,7 @@ Welcome to my GitHub page. 😉
 - 🌐 Website: [Masterking32.com](https://masterking32.com)
 
 <a href="https://github.com/MasterkinG32">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt&include_all_commits=true" alt="MasterkinG32's github stats" />
 </a>
 <a href="https://github.com/MasterkinG32">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&layout=compact" />
