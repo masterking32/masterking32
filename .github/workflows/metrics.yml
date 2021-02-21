@@ -17,11 +17,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: masterking32
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tehran
-          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 300
           plugin_activity_filter: all
