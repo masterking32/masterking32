@@ -17,13 +17,12 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
+          user: masterking32
           template: classic
           base: header, activity, community, repositories, metadata
+          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 300
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_visibility: all
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_threshold: 0%
