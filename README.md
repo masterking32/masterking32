@@ -12,4 +12,6 @@ Welcome to my GitHub page. 😉
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt&include_all_commits=true" alt="MasterkinG32's github stats" />
 </a>
 
+![Discord](https://discord.c99.nl/widget/theme-2/374426504123121668.png)
+
 <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
