@@ -11,14 +11,17 @@ Welcome to my GitHub page. 😉
 
 ![Metrics](https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg)
 
-
+<!---
 <a href="https://github.com/MasterkinG32">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt&include_all_commits=true" alt="MasterkinG32's github stats" />
 </a>
 
-<!---
 ![Discord](https://discord.c99.nl/widget/theme-2/374426504123121668.png)
 --->
+
+<a href="https://github.com/MasterkinG32">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
+</a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
 
