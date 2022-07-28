@@ -9,22 +9,26 @@
 </p>
 <p align="center">
   <a href="https://instagram.com/masterking32/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a>
   <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat&logo=youtube&logoColor=white">
   </a>
   <a href="https://twitch.com/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://open.spotify.com/user/masterking32?si=eda611bfe36c4f9b" target="_blank">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
+  </a>
+  
   <a href="https://masterking32.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-25734f?style=flat-square&logo=firefox&logoColor=white">
+    <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
   </a>
 </p>
 <p align="center">
