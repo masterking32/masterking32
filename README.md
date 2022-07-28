@@ -24,7 +24,7 @@ Welcome to my GitHub page. 😉
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
   </a>
   <a href="https://github.com/MasterkinG32">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=cobalt" alt="MasterkinG32's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" />
   </a>
 <div>
 
