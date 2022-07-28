@@ -30,4 +30,9 @@ Welcome to my GitHub page. 😉
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
 
-<img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
+<div>
+  <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
+  <a href="https://discord.gg/ydDk9xe">
+    <img align="center" src="https://discordapp.com/api/guilds/718430507150606340/widget.png?style=shield" alt="MasterkinG32's Discord Server" />
+  </a>
+</div>
