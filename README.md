@@ -27,9 +27,9 @@ Welcome to my GitHub page. 😉
 
 <div>
   <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
-  <a href="https://discord.gg/ydDk9xe">
+  <!---<a href="https://discord.gg/ydDk9xe">
     <img align="center" src="https://discordapp.com/api/guilds/718430507150606340/widget.png?style=shield" alt="MasterkinG32's Discord Server" />
-  </a>
+  </a>--->
   <a href="https://discord.gg/ydDk9xe">
     <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
   </a>
