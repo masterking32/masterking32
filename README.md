@@ -27,6 +27,7 @@ Welcome to my GitHub page. 😉
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=cobalt" alt="MasterkinG32's github stats" />
   </a>
 <div>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
 
 <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
