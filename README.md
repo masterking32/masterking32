@@ -14,6 +14,7 @@ Welcome to my GitHub page. 😉
 <!---
 ![Discord](https://discord.c99.nl/widget/theme-2/374426504123121668.png)
 --->
-[![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/299496958731747329)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
 
 <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
