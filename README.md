@@ -8,8 +8,9 @@ Welcome to my GitHub page. 😉
 <!---
 ![Metrics](https://metrics.lecoq.io/masterking32?template=classic&activity=1&languages=1&activity.limit=5&activity.days=300&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTehran&config.twemoji=true)
 --->
-
+<p align="center">
 ![Metrics](https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg)
+</p>
 
 <!---
 <a href="https://github.com/MasterkinG32">
@@ -19,9 +20,10 @@ Welcome to my GitHub page. 😉
 ![Discord](https://discord.c99.nl/widget/theme-2/374426504123121668.png)
 --->
 
-<div>
+
+<p align="center">
   <a href="https://github.com/MasterkinG32"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" /></a><a href="https://github.com/MasterkinG32"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" /></a>
-<div>
+<p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
 
