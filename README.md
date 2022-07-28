@@ -19,13 +19,7 @@ Welcome to my GitHub page. 😉
 ![Discord](https://discord.c99.nl/widget/theme-2/374426504123121668.png)
 --->
 
-<div>
-  <a href="https://github.com/MasterkinG32">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
-  </a>
-  <a href="https://github.com/MasterkinG32">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" />
-  </a>
+<div><a href="https://github.com/MasterkinG32"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" /></a><a href="https://github.com/MasterkinG32"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" /></a>
 <div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/374426504123121668)](https://discord.com/users/374426504123121668)
