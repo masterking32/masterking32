@@ -222,12 +222,12 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.030593797802809065" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.030593797802809065" y="0" width="0.3671255736337088" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="0.39771937143651787" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="0.39771937143651787" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.39771937143651787" y="0" width="217.79724655819774" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="218.19496592963426" y="0" width="1.805034070365735" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.06117908787541713" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.06117908787541713" y="0" width="0.3670745272525028" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0.42825361512791993" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0.42825361512791993" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.42825361512791993" y="0" width="217.76696329254727" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="218.1952169076752" y="0" width="1.8047830923248054" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
@@ -243,7 +243,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">13 <small>open</small></span>
+                                <span class="no-wrap">14 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1128,7 +1128,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Sept 2022, 04:51:07 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Sept 2022, 09:35:59 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
