@@ -656,7 +656,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.79m out of 109m users</span>
+                                    <span class="gh">ranked 1.80m out of 109m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -705,7 +705,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 78.8k out of 381m repositories</span>
+                                    <span class="gh">ranked 79.7k out of 381m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">138</div>
                                     </div>
@@ -1084,7 +1084,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2023, 13:33:58 (timezone Asia/Tehran) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Mar 2023, 18:34:15 (timezone Asia/Tehran) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
