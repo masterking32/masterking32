@@ -705,7 +705,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 75.1k out of 398m repositories</span>
+                                    <span class="gh">ranked 75.2k out of 398m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">149</div>
                                     </div>
@@ -798,7 +798,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 111k out of 114m users</span>
+                                    <span class="gh">ranked 118k out of 114m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">78</div>
                                     </div>
@@ -1084,7 +1084,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 May 2023, 04:39:31 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 May 2023, 09:34:02 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
