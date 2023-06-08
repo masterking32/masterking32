@@ -1,5 +1,5 @@
 <p align="center">
- 👋Hey, Welcome to my GitHub page.
+ 👋 Hey, Welcome to my GitHub page.
 </p>
 <p align="center">
   👨‍💻 My name is Amin Mahmoudi, also known as Amin MasterkinG!
