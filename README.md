@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://gpvc.arturio.dev/masterking32" alt="MasterkinG32's github views" />
+  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
   <a href="https://discord.gg/ydDk9xe" target="_blank">
     <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
   </a>
