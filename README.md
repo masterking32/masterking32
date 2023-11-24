@@ -61,4 +61,6 @@
   <img src="https://wakatime.com/share/@masterking32/51b12188-22bd-4c2f-908e-6325280ae252.svg">
 </p>
 
-
+<p align="center">
+  <img src="https://wakatime.com/share/@masterking32/b1fcdcc7-1944-4119-a4b5-fc8f7a0ac7db.png">
+</p>
