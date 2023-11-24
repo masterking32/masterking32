@@ -56,3 +56,9 @@
     <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
   </a>
 </p>
+
+<p align="center">
+  <figure><embed src="https://wakatime.com/share/@masterking32/51b12188-22bd-4c2f-908e-6325280ae252.svg"></embed></figure>
+</p>
+
+
