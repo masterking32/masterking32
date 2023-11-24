@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@masterking32/b1fcdcc7-1944-4119-a4b5-fc8f7a0ac7db.png">
+  <img src="https://wakatime.com/share/@masterking32/c88e005d-5f38-4321-831a-a38b1a866371.svg">
 </p>
