@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@masterking32/51b12188-22bd-4c2f-908e-6325280ae252.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@masterking32/51b12188-22bd-4c2f-908e-6325280ae252.svg">
 </p>
 
 
