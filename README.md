@@ -31,6 +31,13 @@
     <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.com/users/374426504123121668" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/374426504123121668" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
@@ -41,17 +48,21 @@
 <p>
 
 <p align="center">
-  <a href="https://discord.com/users/374426504123121668" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/374426504123121668" />
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://wakatime.com/share/@masterking32/b82f4891-da4d-4cc0-9c64-936a2ac29192.png" alt="MasterkinG32's wakatime.com" style='width: 49%' />
   </a>
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://wakatime.com/share/@masterking32/ec21979e-3e56-43cb-83d4-c9a7e2ff941b.png" alt="MasterkinG32's wakatime.com"  style='width: 49%' />
+  </a>
+<p>
+
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark" />
 </p>
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" />
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@masterking32/a079263b-e3a4-40b5-a2e7-62ac41549a24.svg" alt="Image 1" style="max-width: 50%;">
 </p>
 
 <p align="center">
