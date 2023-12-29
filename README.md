@@ -51,12 +51,13 @@
 </p>
 
 <p align="center">
+  <img src="https://wakatime.com/share/@masterking32/a079263b-e3a4-40b5-a2e7-62ac41549a24.svg" alt="Image 1" style="max-width: 50%;">
+</p>
+
+<p align="center">
   <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
   <a href="https://discord.gg/ydDk9xe" target="_blank">
     <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@masterking32/c88e005d-5f38-4321-831a-a38b1a866371.svg">
-</p>
