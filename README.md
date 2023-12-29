@@ -63,16 +63,15 @@
 <p>
 
 <p align="center">
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
-  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
-  </a>
-</p>
-
-
-<p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark" />
 </p>
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/masterking32" target="_blank">
+  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
+  </a>
 </p>
