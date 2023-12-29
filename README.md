@@ -33,6 +33,13 @@
 </p>
 
 <p align="center">
+  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
+  <a href="https://discord.gg/ydDk9xe" target="_blank">
+    <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/374426504123121668" target="_blank">
     <img align="center" src="https://lanyard.cnrad.dev/api/374426504123121668" />
   </a>
@@ -64,11 +71,3 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
-  </a>
-</p>
-
