@@ -226,10 +226,10 @@
                             <rect mask="url(#issues-bar)" x="0.05536680508367937" y="0" width="0.4706178432112747" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="0.5259846482949541" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="0.5259846482949541" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.5259846482949541" y="0" width="217.25934314835786" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="217.7853277966528" y="0" width="2.2146722033471753" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.5259846482949541" y="0" width="217.23165974581605" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="217.757644394111" y="0" width="2.242355605889015" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -284,7 +284,7 @@
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">80 <small>closed</small></span>
+                                <span class="no-wrap">81 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -705,7 +705,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 62.8k out of 75.1m repositories</span>
+                                    <span class="gh">ranked 62.8k out of 90.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">194</div>
                                     </div>
@@ -874,7 +874,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 179k out of 75.1m repositories</span>
+                                    <span class="gh">ranked 179k out of 90.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">226</div>
                                     </div>
@@ -1128,7 +1128,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2024, 18:34:47 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 23:33:48 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
