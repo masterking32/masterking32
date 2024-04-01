@@ -705,7 +705,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 62.2k out of 66.5m repositories</span>
+                                    <span class="gh">ranked 62.2k out of 96.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">196</div>
                                     </div>
@@ -798,7 +798,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 117k out of 134m users</span>
+                                    <span class="gh">ranked 118k out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">92</div>
                                     </div>
@@ -874,7 +874,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 177k out of 66.5m repositories</span>
+                                    <span class="gh">ranked 177k out of 96.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">230</div>
                                     </div>
@@ -1128,7 +1128,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2024, 18:33:58 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 23:34:15 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
