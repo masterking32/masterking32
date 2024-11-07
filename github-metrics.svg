@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 327 users
+                            Followed by 328 users
                         </div>
                     </section>
                     <section>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    1026 Stargazers
+                                    1027 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -307,14 +307,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="1.2429378531073447" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="1.2429378531073447" y="0" width="4.971751412429379" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="6.214689265536723" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.2429378531073443" y="0" width="4.971751412429379" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="6.214689265536723" y="0" width="6.214689265536723" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="12.429378531073446" y="0" width="55.932203389830505" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="68.36158192090394" y="0" width="8.700564971751414" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="77.06214689265536" y="0" width="142.93785310734464" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="1.229050279329609" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="1.229050279329609" y="0" width="4.916201117318436" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="6.145251396648045" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.2290502793296092" y="0" width="4.916201117318436" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="6.145251396648045" y="0" width="4.916201117318436" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="11.061452513966481" y="0" width="58.99441340782123" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="70.05586592178771" y="0" width="8.603351955307263" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="78.65921787709497" y="0" width="141.34078212290504" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,7 +346,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">50 <small>closed</small></span>
+                                <span class="no-wrap">52 <small>closed</small></span>
                             </div>
                         </div>
                         <div class="field blue fill-width">
@@ -379,7 +379,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ff7b72" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">45 <small>closed</small></span>
+                                <span class="no-wrap">48 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -674,7 +674,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.61666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.13333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -711,12 +711,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.2k out of 148m users</span>
+                                    <span class="gh">ranked 29.1k out of 148m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">327</div>
+                                        <div class="value">328</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 327 users</div>
+                                <div class="text">Followed by 328 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -760,7 +760,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 58.9k out of 217m repositories</span>
+                                    <span class="gh">ranked 58.9k out of 225m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">216</div>
                                     </div>
@@ -912,7 +912,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 161k out of 217m repositories</span>
+                                    <span class="gh">ranked 161k out of 225m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">281</div>
                                     </div>
@@ -1166,7 +1166,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2024, 13:34:24 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2024, 18:34:27 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
