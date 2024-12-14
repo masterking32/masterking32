@@ -70,6 +70,11 @@
   <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" />
 </p>
 
+
+<p align="center">
+  <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/masterking32" target="_blank">
   <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="MasterkinG32's github views" />
