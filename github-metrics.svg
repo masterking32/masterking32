@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -400,14 +400,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.79570367843712" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="230.79570367843712" y="0" width="163.11947322135507" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="393.9151768997922" y="0" width="33.937542969136544" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="427.8527198689287" y="0" width="10.368021747572392" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.2207416165011" y="0" width="7.153963682087666" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="445.37470529858876" y="0" width="6.452384514001456" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.82708981259026" y="0" width="4.126013309390169" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="455.9531031219804" y="0" width="4.046896878019579" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.80949845257132" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="230.80949845257132" y="0" width="163.10965579504114" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="393.9191542476124" y="0" width="33.935500421298464" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="427.8546546689109" y="0" width="10.367397743046643" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.2220524119575" y="0" width="7.153533117239004" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="445.37558552919654" y="0" width="6.451996174042625" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.82758170323916" y="0" width="4.125764983234896" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="455.95334668647405" y="0" width="4.046653313525926" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -479,7 +479,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.08487337440111 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -656,7 +656,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 958k out of 152m users</span>
+                                    <span class="gh">ranked 959k out of 152m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">44</div>
                                     </div>
@@ -760,7 +760,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 58.4k out of 232m repositories</span>
+                                    <span class="gh">ranked 58.4k out of 227m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">220</div>
                                     </div>
@@ -956,7 +956,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 165k out of 232m repositories</span>
+                                    <span class="gh">ranked 165k out of 227m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">278</div>
                                     </div>
@@ -1166,7 +1166,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2024, 08:34:42 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 13:34:30 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
