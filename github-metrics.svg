@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    526 Forkers
+                                    527 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -400,14 +400,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.79691301624067" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="231.79691301624067" y="0" width="161.9071818908049" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="393.70409490704554" y="0" width="33.6853217701027" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="427.38941667714823" y="0" width="10.87118050034228" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.2605971774905" y="0" width="7.100795976358893" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="445.3613931538494" y="0" width="6.526437096224418" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.8878302500738" y="0" width="4.095349097043672" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="455.98317934711747" y="0" width="4.01682065288246" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.79949658581253" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="231.79949658581253" y="0" width="161.90534888111986" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="393.70484546693245" y="0" width="33.684940406408224" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="427.38978587334066" y="0" width="10.8710574237813" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.26084329712194" y="0" width="7.100715585682925" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="445.36155888280484" y="0" width="6.526363208072784" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.8879220908776" y="0" width="4.095302732117356" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="455.983224822995" y="0" width="4.016775177005023" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -656,7 +656,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 966k out of 153m users</span>
+                                    <span class="gh">ranked 966k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">44</div>
                                     </div>
@@ -711,7 +711,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 25.8k out of 153m users</span>
+                                    <span class="gh">ranked 25.8k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">374</div>
                                     </div>
@@ -729,7 +729,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.4375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.825 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -760,12 +760,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 57.3k out of 232m repositories</span>
+                                    <span class="gh">ranked 57k out of 232m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">225</div>
+                                        <div class="value">226</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 225 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 226 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1166,7 +1166,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2025, 13:34:53 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 18:34:41 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
