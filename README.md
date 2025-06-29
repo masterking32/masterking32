@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/374426504123121668" />
+    <img align="center" src="https://lanyard.cnrad.dev/api/374426504123121668?theme=dark&idleMessage=I'm%20working%20on%20something%20important%20and%20secret!" />
   </a>
 </p>
 
