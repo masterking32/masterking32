@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
+    <img align="center" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" />
   </a>
 </p>
 
