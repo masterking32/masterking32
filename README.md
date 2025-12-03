@@ -37,16 +37,19 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
     <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
   </a>
 </p>
+
 <img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  />
 
-   <p align="center">
-    <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
-   </p>
-<img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  />
 <a href="https://discord.gg/ydDk9xe" target="_blank">
     <img align="right" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" width="50%" />
 </a>
+<a href="https://masterking32.com" target="_blank">
+  <img src="https://img.shields.io/discord/718430507150606340?label=Discord Onlines&logo=discord&style=for-the-badge&color=5865F2" alt="Discord Onlines" width="47%" />
+</a>
+
+
 <p align="center">
+
   <a href="https://telegram.me/masterking32" target="_blank">
         <img src="https://badges.pufler.dev/years/masterking32">
   </a>
@@ -59,8 +62,6 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
     <img src="https://badges.pufler.dev/commits/all/masterking32/">
   </a> 
-  
-
 </p>
 <p align="center">
 
@@ -97,3 +98,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 </p>
 
 
+
+   <p align="center">
+    <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
+   </p>
