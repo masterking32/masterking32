@@ -54,17 +54,31 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 </p>
 <p align="center">
   <a href="https://github.com/masterking32" target="_blank">
-        <img src="https://badges.pufler.dev/years/masterking32">
+        <img src="https://badges.pufler.dev/years/masterking32?style=flat&logo=github&label=Years%20On%20GitHub" alt="Years On GitHub" />
   </a>
   <a href="https://github.com/masterking32/" target="_blank">
-    <img src="https://badges.pufler.dev/repos/masterking32">
+    <img src="https://badges.pufler.dev/repos/masterking32?style=flat&logo=github&label=Total%20Repositories" alt="Total Repositories" />
   </a> 
   <a href="https://github.com/masterking32" target="_blank">
-    <img src="https://badges.pufler.dev/gists/masterking32">
+    <img src="https://badges.pufler.dev/gists/masterking32?style=flat&logo=github&label=Total%20Gists" alt="Total Gists" />
   </a> 
   <a href="https://github.com/masterking32/" target="_blank">
-    <img src="https://badges.pufler.dev/commits/all/masterking32/">
-  </a> 
+    <img src="https://badges.pufler.dev/commits/all/masterking32?style=flat&logo=github&label=Total%20Commits" alt="Total Commits" />
+  </a>
+  <a href="https://github.com/masterking32" target="_blank">
+    <img src="https://img.shields.io/github/stars/masterking32?style=flat&logo=github&label=Stars%20On%20GitHub" alt="Stars on GitHub" />
+    </a>
+</p>
+<p align="center">
+  <a href="https://twitch.tv/masterking32" target="_blank">
+    <img src="https://img.shields.io/twitch/status/masterking32?style=flat&logo=twitch&label=Twitch%20Status" alt="Twitch Status" />
+    </a>
+  <a href="https://youtube.com/c/AminMasterkinG/" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCkIB8OedQfvm_ktiFoPKm4g?style=flat&logo=youtube&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
+    </a>
+  <a href="https://youtube.com/c/AminMasterkinG/" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/views/UCkIB8OedQfvm_ktiFoPKm4g?style=flat&logo=youtube&label=YouTube%20Views" alt="YouTube Views" />
+    </a>
 </p>
 
 ###
@@ -84,15 +98,6 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 
-
-<p align="center">
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterkinG32&show_icons=true&theme=cobalt" alt="MasterkinG32's github stats" />
-  </a>
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterking32&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="MasterkinG32's github stats" />
-  </a>
-<p>
 
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
