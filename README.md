@@ -44,7 +44,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
     <img align="right" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" width="50%" />
 </a>
 <a href="https://masterking32.com" target="_blank">
-  <img src="https://img.shields.io/discord/718430507150606340?label=Discord Onlines&logo=discord&style=for-the-badge&color=5865F2" alt="Discord Onlines" width="47%" />
+  <img src="https://img.shields.io/discord/718430507150606340?label=Discord Onlines&logo=discord&style=for-the-badge&color=5865F2&logoColor=white" alt="Discord Onlines" width="47%" />
 </a>
 
 
