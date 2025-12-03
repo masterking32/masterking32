@@ -98,6 +98,40 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C961%20hrs%2059%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 3.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,073 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 52 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   27 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
+JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+PHP                      12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/masterking32/masterking32/master/assets/bar_graph.png)
+
+
+ Last Updated on 03/12/2025 03:31:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
