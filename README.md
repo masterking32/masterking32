@@ -98,6 +98,32 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 <!--START_SECTION:waka2-->
+
+```txt
+From: 23 November 2023 - To: 02 December 2025
+
+PHP                                        ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Python                                     ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+C++                                        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+TypeScript                                 ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+JavaScript                                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Other                                      █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+HTML                                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON                                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Markdown                                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+CSS                                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+SQL                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+CSV                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Text                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Prisma                                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Lua                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C#                                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+XML                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+SCSS                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git Config                                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
