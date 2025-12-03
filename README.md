@@ -97,6 +97,17 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
+
+
+<p align="center">
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's wakatime.com" style='width: 55%' />
+  </a>
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark&column=3&margin-w=15&margin-h=15" alt="MasterkinG32's wakatime.com"  />
+  </a>
+<p>
+
 <!--START_SECTION:waka2-->
 
 ```txt
@@ -127,13 +138,3 @@ Git Config                                 ░░░░░░░░░░░░�
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's wakatime.com" style='width: 55%' />
-  </a>
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark&column=3&margin-w=15&margin-h=15" alt="MasterkinG32's wakatime.com"  />
-  </a>
-<p>
-
