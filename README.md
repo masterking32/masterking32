@@ -97,6 +97,8 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
+<!--START_SECTION:waka2-->
+<!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
