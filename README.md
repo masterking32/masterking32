@@ -154,16 +154,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://wakatime.com/share/@masterking32/b82f4891-da4d-4cc0-9c64-936a2ac29192.png" alt="MasterkinG32's wakatime.com" style='width: 49%' />
+    <img align="center" src="https://wakatime.com/share/@masterking32/b82f4891-da4d-4cc0-9c64-936a2ac29192.png" alt="MasterkinG32's wakatime.com" style='width: 55%' />
   </a>
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://wakatime.com/share/@masterking32/ec21979e-3e56-43cb-83d4-c9a7e2ff941b.png" alt="MasterkinG32's wakatime.com"  style='width: 49%' />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark&column=3&margin-w=15&margin-h=15" alt="MasterkinG32's wakatime.com"  />
   </a>
 <p>
 
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark" />
-</p>
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" />
