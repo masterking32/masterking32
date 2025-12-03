@@ -98,22 +98,45 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C961%20hrs%2059%20mins-blue)
+**I'm a Night 🦉** 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+```text
+🌞 Morning                1111 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌆 Daytime                1528 commits        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌃 Evening                1644 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+🌙 Night                  1953 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
+```
+📅 **I'm Most Productive on Sunday** 
 
-**🐱 My GitHub Data** 
+```text
+Monday                   805 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Tuesday                  938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Wednesday                965 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 764 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   843 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+```
 
-> 📦 3.8 MB Used in GitHub's Storage 
- > 
-> 🏆 2,073 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 21 Private Repositories 
- > 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+PHP                      27 hrs 50 mins      ██████████████████████░░░   90.00 % 
+Nginx configuration file 1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 55 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    28 hrs 30 mins      ███████████████████████░░   92.17 % 
+Windows                  2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -126,12 +149,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/masterking32/masterking32/master/assets/bar_graph.png)
-
-
- Last Updated on 03/12/2025 03:31:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
