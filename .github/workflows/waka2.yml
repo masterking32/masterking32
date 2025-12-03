@@ -29,7 +29,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
