@@ -98,6 +98,18 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 <!--START_SECTION:waka2-->
+
+```txt
+From: 23 November 2023 - To: 02 December 2025
+
+PHP                        926 hrs 17 mins ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Python                     566 hrs 47 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+C++                        366 hrs 27 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+TypeScript                 344 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+JavaScript                 326 hrs 15 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Other                      120 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+```
+
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
