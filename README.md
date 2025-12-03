@@ -30,7 +30,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   <a href="https://stackoverflow.com/users/3344117/amin-masterking" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/user/masterking32?si=eda611bfe36c4f9b" target="_blank">
+  <a href="https://open.spotify.com/user/masterking32" target="_blank">
     <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
   </a> 
   <a href="https://masterking32.com" target="_blank">
@@ -38,37 +38,51 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  />
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 
 <a href="https://discord.gg/ydDk9xe" target="_blank">
     <img align="right" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" width="50%" />
 </a>
-<a href="https://masterking32.com" target="_blank">
+<a href="https://discord.gg/ydDk9xe" target="_blank">
   <img src="https://img.shields.io/discord/718430507150606340?label=Discord%20Onlines&logo=discord&style=for-the-badge&color=5865F2&logoColor=white" alt="Discord Onlines" width="47%" />
 </a>
 
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 
 <p align="center">
-
-  <a href="https://telegram.me/masterking32" target="_blank">
+    <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/masterking32" target="_blank">
         <img src="https://badges.pufler.dev/years/masterking32">
   </a>
-  <a href="https://instagram.com/masterking32/" target="_blank">
+  <a href="https://github.com/masterking32/" target="_blank">
     <img src="https://badges.pufler.dev/repos/masterking32">
   </a> 
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
+  <a href="https://github.com/masterking32" target="_blank">
     <img src="https://badges.pufler.dev/gists/masterking32">
   </a> 
-  <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
+  <a href="https://github.com/masterking32/" target="_blank">
     <img src="https://badges.pufler.dev/commits/all/masterking32/">
   </a> 
 </p>
-<p align="center">
 
-  <img src="https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui" alt="masterking32" width="400" alt="@masterking32 on Telegram" />
+###
+
+<p align="left">
+  <a href="https://telegram.me/masterking32" target="_blank">
+    <img src="https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui" alt="masterking32" width="47%" alt="@masterking32 on Telegram" align="left" />
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://open.spotify.com/user/masterking32" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=masterking32&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="masterking32" width="47.5%" alt="masterking32's spotify" align="right" />
     </a>
 </p>
 
+
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
 
 
 <p align="center">
@@ -98,7 +112,3 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 </p>
 
 
-
-   <p align="center">
-    <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
-   </p>
