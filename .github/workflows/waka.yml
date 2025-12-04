@@ -1,9 +1,7 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: "30 18 * * *"
+  schedule: [{ "cron": "20 0 * * *" }]
   workflow_dispatch:
 jobs:
   update-readme:
