@@ -101,10 +101,10 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's wakatime.com" style='width: 55%' />
+    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
   </a>
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterking32&theme=onedark&column=3&margin-w=15&margin-h=15" alt="MasterkinG32's wakatime.com"  />
+    <img align="center" src="https://wakatime.com/share/@masterking32/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
   </a>
 <p>
 
