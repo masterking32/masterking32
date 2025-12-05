@@ -85,7 +85,8 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <p align="left">
   <a href="https://telegram.me/masterking32" target="_blank">
-    <img src="https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui" alt="masterking32" width="47%" alt="@masterking32 on Telegram" align="left" />
+  <!-- https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui -->
+    <img src="https://raw.githubusercontent.com/masterking32/masterking32/master/telegram.png" alt="masterking32" width="47%" alt="@masterking32 on Telegram" align="left" />
   </a>
 </p>
 
