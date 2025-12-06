@@ -38,7 +38,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   </a>
 </p>
 
-<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px" /></a>
 
 <a href="https://discord.gg/ydDk9xe" target="_blank">
     <img align="right" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" width="50%" />
@@ -47,7 +47,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   <img src="https://img.shields.io/discord/718430507150606340?label=Discord%20Onlines&logo=discord&style=for-the-badge&color=5865F2&logoColor=white" alt="Discord Onlines" width="47%" />
 </a>
 
-<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
 <p align="center">
     <a href="https://u8views.com/github/masterking32"><img src="https://u8views.com/api/v1/github/profiles/1076030/views/day-week-month-total-count.svg"></a>
@@ -97,7 +97,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 </p>
 
 
-<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%"  /></a>
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
 
 <p align="center">
