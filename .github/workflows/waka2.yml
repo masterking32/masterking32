@@ -32,7 +32,7 @@ jobs:
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: masterking32 # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMITTER_EMAIL: lichwow_masterking@yahoo.com # optional
           AUTHOR_NAME: masterking32 # optional
-          AUTHOR_EMAIL: action-bot@github.com # optional
+          AUTHOR_EMAIL: lichwow_masterking@yahoo.com # optional
           # you can populate email-id with secrets instead
