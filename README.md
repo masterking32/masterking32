@@ -112,12 +112,12 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 <!--START_SECTION:waka2-->
 
 ```txt
-From: 23 November 2023 - To: 18 December 2025
+From: 23 November 2023 - To: 19 December 2025
 
-PHP                                        ████████░░░░░░░░░░░░░░░░░   31.81 %
+PHP                                        ████████░░░░░░░░░░░░░░░░░   31.82 %
 Python                                     ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
 C++                                        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-TypeScript                                 ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+TypeScript                                 ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
 JavaScript                                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 Other                                      █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 HTML                                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
