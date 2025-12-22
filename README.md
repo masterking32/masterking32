@@ -54,22 +54,8 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 </p>
 <p align="center">
   <a href="https://github.com/masterking32" target="_blank">
-        <img src="https://badges.pufler.dev/years/masterking32?style=flat&logo=github&label=Years%20On%20GitHub" alt="Years On GitHub" />
-  </a>
-  <a href="https://github.com/masterking32/" target="_blank">
-    <img src="https://badges.pufler.dev/repos/masterking32?style=flat&logo=github&label=Total%20Repositories" alt="Total Repositories" />
-  </a> 
-  <a href="https://github.com/masterking32" target="_blank">
-    <img src="https://badges.pufler.dev/gists/masterking32?style=flat&logo=github&label=Total%20Gists" alt="Total Gists" />
-  </a> 
-  <a href="https://github.com/masterking32/" target="_blank">
-    <img src="https://badges.pufler.dev/commits/all/masterking32?style=flat&logo=github&label=Total%20Commits" alt="Total Commits" />
-  </a>
-  <a href="https://github.com/masterking32" target="_blank">
     <img src="https://img.shields.io/github/stars/masterking32?style=flat&logo=github&label=Stars%20On%20GitHub" alt="Stars on GitHub" />
     </a>
-</p>
-<p align="center">
   <a href="https://twitch.tv/masterking32" target="_blank">
     <img src="https://img.shields.io/twitch/status/masterking32?style=flat&logo=twitch&label=Twitch%20Status" alt="Twitch Status" />
     </a>
