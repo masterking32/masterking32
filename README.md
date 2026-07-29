@@ -124,51 +124,7 @@ XML                                              ░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%205%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1887 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-🌆 Daytime                2093 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-🌃 Evening                2320 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌙 Night                  3162 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1413 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  1341 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                1402 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Thursday                 1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   1257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 1300 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Sunday                   1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 45 hrs 45 mins (94.44%)
-
-✍️ 4,068 lines written by AI, 1,144 lines written by hand (78.05% AI-written)
-
-🔤 103,918,013 Input Tokens, 429,642 Output Tokens
-
-💵 $510.40 Estimated AI Cost This Week
-
-🧠 22 AI Sessions, 491 AI Prompts
-
-Antigravity-Desktop      4,909 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.05% of written lines came from AI
-📚 Verbose Prompter — average 3,899 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 39.7% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-435%20hrs%2035%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
