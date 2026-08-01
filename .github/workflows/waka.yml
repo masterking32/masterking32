@@ -27,4 +27,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
