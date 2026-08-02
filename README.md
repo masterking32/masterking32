@@ -78,7 +78,7 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <p align="right">
   <a href="https://open.spotify.com/user/masterking32" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=masterking32&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="masterking32" width="47.5%" alt="masterking32's spotify" align="right" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=masterking32&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="masterking32" width="47.5%" alt="masterking32's spotify" align="right" />
     </a>
 </p>
 
