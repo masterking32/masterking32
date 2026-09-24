@@ -59,12 +59,6 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
   <a href="https://twitch.tv/masterking32" target="_blank">
     <img src="https://img.shields.io/twitch/status/masterking32?style=flat&logo=twitch&label=Twitch%20Status" alt="Twitch Status" />
     </a>
-  <a href="https://youtube.com/c/AminMasterkinG/" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCkIB8OedQfvm_ktiFoPKm4g?style=flat&logo=youtube&label=YouTube%20Subscribers" alt="YouTube Subscribers" />
-    </a>
-  <a href="https://youtube.com/c/AminMasterkinG/" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCkIB8OedQfvm_ktiFoPKm4g?style=flat&logo=youtube&label=YouTube%20Views" alt="YouTube Views" />
-    </a>
 </p>
 
 ###
