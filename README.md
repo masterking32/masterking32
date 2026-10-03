@@ -118,14 +118,35 @@ XML                                              ░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1939 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+🌆 Daytime                2276 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌃 Evening                2522 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌙 Night                  3309 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1453 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Tuesday                  1430 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                1498 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Thursday                 1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   1361 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 1392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   1638 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+```
+
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-PHP                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Python                   30 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+PHP                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
