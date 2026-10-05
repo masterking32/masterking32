@@ -79,6 +79,18 @@ I'm a full-stack developer, freelancer, and self-employed entrepreneur. Welcome 
 
 <a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
+<p align="center">
+ <a href="https://www.star-history.com/masterking32">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=masterking32&year=2024&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=masterking32&year=2024" />
+   <img alt="Top Committer" src="https://api.star-history.com/badge?user=masterking32&year=2024" />
+  </picture>
+ </a>
+</p>
+
+
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
