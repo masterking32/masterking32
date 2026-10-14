@@ -130,6 +130,27 @@ XML                                              ░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2042 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+🌆 Daytime                2347 commits        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+🌃 Evening                2608 commits        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+🌙 Night                  3384 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  1478 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Wednesday                1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Thursday                 1301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Friday                   1398 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 1450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Sunday                   1700 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+```
+
+
 **I Mostly Code in Python** 
 
 ```text
