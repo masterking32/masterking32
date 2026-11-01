@@ -130,6 +130,27 @@ Apache Config                                    ░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2001 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌆 Daytime                2333 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌃 Evening                2596 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌙 Night                  3416 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1530 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Tuesday                  1487 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Wednesday                1528 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 1289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   1378 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 1431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sunday                   1703 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+```
+
+
 **I Mostly Code in Python** 
 
 ```text
