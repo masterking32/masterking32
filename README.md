@@ -130,27 +130,6 @@ Lua                                              ░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2036 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                2393 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌃 Evening                2617 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-🌙 Night                  3481 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1542 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  1534 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Wednesday                1535 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 1303 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   1392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 1471 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Sunday                   1750 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-```
-
-
 **I Mostly Code in Python** 
 
 ```text
